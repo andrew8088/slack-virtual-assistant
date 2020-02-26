@@ -1,0 +1,7 @@
+{
+    "env": {
+        "SLACK_API_TOKEN": "@slack-api-token",
+        "IMGFLIP_USERNAME": "@imgflip-username",
+        "IMGFLIP_PASSWORD": "@imgflip-password"
+    }
+}

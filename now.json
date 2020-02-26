@@ -4,7 +4,7 @@
         "IMGFLIP_USERNAME": "@imgflip-username",
         "IMGFLIP_PASSWORD": "@imgflip-password",
         "GITHUB_API_TOKEN": "@github-api-token",
-        "GITHUB_USER_AGENT": "@gitub-user-agent",
+        "GITHUB_USER_AGENT": "@github-user-agent",
         "GITHUB_TO_SLACK_ID_MAP": "@github-to-slack-id-map",
         "GITHUB_REPO_FETCH_PARAMS": "@github-repo-fetch-params"
     }

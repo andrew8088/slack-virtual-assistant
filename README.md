@@ -1,6 +1,6 @@
 # Slack Virtual Assistant
 
-Created to run on zeit.co.
+Created to run on [zeit.co](http://zeit.co).
 
 ## API endpoints
 
